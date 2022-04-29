@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>LetterE.f8ed169d-a9ab-11ec-b8c2-54bf643bdae7.jpg</filename>
+	<path>D:\RealTimeObjectDetection-main\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\LetterE.f8ed169d-a9ab-11ec-b8c2-54bf643bdae7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LetterE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>285</ymin>
+			<xmax>491</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

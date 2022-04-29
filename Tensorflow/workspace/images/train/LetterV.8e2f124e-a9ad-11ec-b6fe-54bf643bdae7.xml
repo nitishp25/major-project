@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>LetterV.8e2f124e-a9ad-11ec-b6fe-54bf643bdae7.jpg</filename>
+	<path>D:\RealTimeObjectDetection-main\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\LetterV.8e2f124e-a9ad-11ec-b6fe-54bf643bdae7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LetterV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>154</ymin>
+			<xmax>368</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>LetterJ.6a74d721-a9ac-11ec-bf0e-54bf643bdae7.jpg</filename>
+	<path>D:\RealTimeObjectDetection-main\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\LetterJ.6a74d721-a9ac-11ec-bf0e-54bf643bdae7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LetterJ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>154</ymin>
+			<xmax>465</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

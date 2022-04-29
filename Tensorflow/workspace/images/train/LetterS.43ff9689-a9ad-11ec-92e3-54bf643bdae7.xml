@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>LetterS.43ff9689-a9ad-11ec-92e3-54bf643bdae7.jpg</filename>
+	<path>D:\RealTimeObjectDetection-main\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\LetterS.43ff9689-a9ad-11ec-92e3-54bf643bdae7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LetterS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>110</ymin>
+			<xmax>448</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

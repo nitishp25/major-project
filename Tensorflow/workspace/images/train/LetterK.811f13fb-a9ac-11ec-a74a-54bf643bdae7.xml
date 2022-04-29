@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>LetterK.811f13fb-a9ac-11ec-a74a-54bf643bdae7.jpg</filename>
+	<path>D:\RealTimeObjectDetection-main\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\LetterK.811f13fb-a9ac-11ec-a74a-54bf643bdae7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LetterK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>119</ymin>
+			<xmax>451</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,104 @@
+item { 
+	name:'LetterA'
+	id:1
+}
+item { 
+	name:'LetterB'
+	id:2
+}
+item { 
+	name:'LetterC'
+	id:3
+}
+item { 
+	name:'LetterD'
+	id:4
+}
+item { 
+	name:'LetterE'
+	id:5
+}
+item { 
+	name:'LetterF'
+	id:6
+}
+item { 
+	name:'LetterG'
+	id:7
+}
+item { 
+	name:'LetterH'
+	id:8
+}
+item { 
+	name:'LetterI'
+	id:9
+}
+item { 
+	name:'LetterJ'
+	id:10
+}
+item { 
+	name:'LetterK'
+	id:11
+}
+item { 
+	name:'LetterL'
+	id:12
+}
+item { 
+	name:'LetterM'
+	id:13
+}
+item { 
+	name:'LetterN'
+	id:14
+}
+item { 
+	name:'LetterO'
+	id:15
+}
+item { 
+	name:'LetterP'
+	id:16
+}
+item { 
+	name:'LetterQ'
+	id:17
+}
+item { 
+	name:'LetterR'
+	id:18
+}
+item { 
+	name:'LetterS'
+	id:19
+}
+item { 
+	name:'LetterT'
+	id:20
+}
+item { 
+	name:'LetterU'
+	id:21
+}
+item { 
+	name:'LetterV'
+	id:22
+}
+item { 
+	name:'LetterW'
+	id:23
+}
+item { 
+	name:'LetterX'
+	id:24
+}
+item { 
+	name:'LetterY'
+	id:25
+}
+item { 
+	name:'LetterZ'
+	id:26
+}
